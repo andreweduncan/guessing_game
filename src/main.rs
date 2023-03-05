@@ -18,3 +18,5 @@ fn main() {
 
     println!("You guessed: {guess}");
 }        
+
+// basic struct for guessing game
